@@ -52,5 +52,5 @@ export function* singUp({ payload }) {
 
 export default all([
   takeLatest("@auth/SIGN_IN_REQUEST", singIn),
-  ("@auth/SING_UP_REQUEST", singUp)
+  takeLatest("@auth/SIGN_UP_REQUEST", singUp)
 ]);

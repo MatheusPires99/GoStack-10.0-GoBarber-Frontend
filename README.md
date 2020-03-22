@@ -25,6 +25,7 @@ Por fim temos uma tela de perfil para edição completa dos dados.
 - [Immer](https://github.com/immerjs/immer)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
+- [Date-fns](https://github.com/date-fns/date-fns)
 - [React Toastify](https://github.com/fkhadra/react-toastify)
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [React Icons](https://react-icons.netlify.com/#/)

@@ -31,9 +31,6 @@ Por fim temos uma tela de perfil para edição completa dos dados.
 
 ## :computer: Resultado:
 
-### Carregando enquanto a requisição acontece
-![ReactJS-Arquitetura Flux](.github/loading.png)
-
 ### Login
 ![ReactJS-Arquitetura Flux](.github/signIn.png)
 
